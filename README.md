@@ -1,2 +1,2 @@
 # SimSalaBim
-SimSalaBim Magic Card Trick translated into python
+SimSalaBim Magic Card Trick based python example
